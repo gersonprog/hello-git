@@ -1,2 +1,4 @@
 # hello-git
-my first repository
+my first repository on github
+
+### Gerson .S
